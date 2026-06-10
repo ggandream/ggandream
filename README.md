@@ -1,6 +1,6 @@
 # Hi, I'm Andrea👋
 
-**Systems Engineer transitioning into Frontend Development** — currently pursuing a Master's in Computer Science. Background in data analysis, IT support, and automation; now building a frontend portfolio with hands-on projects.
+I'm a Systems and Computer Science Engineer, currently pursuing a **Master's degree in Computer Science** with an emphasis on electronic banking and communications. After many years working in **data analysis, IT support, and automation**, I'm now focused on transitioning into **frontend development**, my real passion; and this portfolio is where that journey takes shape.
 
 ## 🚀 Projects
 
