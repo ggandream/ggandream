@@ -1,46 +1,17 @@
-# Hi there, I'm Andrea 👋
+# Hi, I'm Andrea👋
 
-**Systems Engineer and Frontend Developer in the making**
+**Systems Engineer transitioning into Frontend Development** — currently pursuing a Master's in Computer Science. Background in data analysis, IT support, and automation; now building a frontend portfolio with hands-on projects.
 
-I'm a Systems and Computer Science Engineer, currently pursuing a **Master's degree in Computer Science** with an emphasis on electronic banking and communications. After many years working in **data analysis, IT support, and automation**, I'm now focused on transitioning into **frontend development**, my real passion; and this portfolio is where that journey takes shape.
+## 🚀 Projects
 
-## 🚀 What I'm working on
+- 🧮 **[Calculator App](#)** — Functional calculator with three switchable themes using custom CSS properties; arithmetic logic built from scratch and theme preference saved.
+- 📰 **[Blogr Landing Page](#)** — Responsive landing page with dropdowns and a mobile hamburger menu; curved, overlapping sections that hold up across breakpoints.
+- 🛒 **[Product Cart](#)** — Shopping cart with dynamic state: add/remove items, adjust quantities, confirmation modal, UI rendered from JSON data.
 
-I'm building real, hands-on projects to sharpen my skills in HTML, CSS, and JavaScript:
+## 🛠️ Tech
 
-### 🧮 [Calculator App](#)
-A fully functional calculator with **three interchangeable themes**.
-- Arithmetic logic implemented from scratch
-- Theme switching built with custom CSS properties
+`HTML` · `CSS` · `JavaScript` · `Git` · `Responsive Design`
 
-### 📰 [Blogr Landing Page](#)
-A fully **responsive landing page** with dropdown navigation and a mobile hamburger menu.
-- Sections with curved backgrounds and overlapping intro elements
-- Carefully tuned layout that holds up across all breakpoints
+## 📫 Contact
 
-### 🛒 [Product Cart with List](#)
-A shopping cart with **dynamic state management**.
-- Add/remove products and adjust quantities in real time
-- Confirmation modal before checkout
-- UI rendered dynamically from a JSON data source
-
-## 🛠️ Tech & Tools
-
-`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `Responsive Design` · `JSON`
-
-**Background:** Data Analysis · IT Support · Process Automation
-
-## 🎯 Currently
-
-- 📚 Studying my Master's in Computer Science (electronic banking & communications)
-- 💻 Building frontend projects and growing my portfolio
-- 🌱 Learning modern frontend practices and component-based development
-
-## 📫 Let's connect
-
-- LinkedIn: [your-linkedin](#)
-- Portfolio: [your-portfolio-site](#)
-
----
-
-⭐ *Feel free to explore my repositories — feedback is always welcome!*
+[LinkedIn](#)
