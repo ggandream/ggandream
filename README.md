@@ -2,7 +2,7 @@
 
 **Systems Engineer and Frontend Developer in the making**
 
-I'm a Systems and Computer Science Engineer, currently pursuing a **Master's degree in Computer Science** with an emphasis on electronic banking and communications. After many years working in **data analysis, IT support, and automation**, I'm now focused on transitioning into **frontend development**, my real passion, and this portfolio is where that journey takes shape.
+I'm a Systems and Computer Science Engineer, currently pursuing a **Master's degree in Computer Science** with an emphasis on electronic banking and communications. After many years working in **data analysis, IT support, and automation**, I'm now focused on transitioning into **frontend development**, my real passion; and this portfolio is where that journey takes shape.
 
 ## 🚀 What I'm working on
 
